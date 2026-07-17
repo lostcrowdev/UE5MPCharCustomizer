@@ -1,14 +1,16 @@
 # UE5MPCharCustomizer
 
+Unreal Engine 5 Multiplayer Character Customizer
+
+
+
 Unreal Engine 5 data driven replicated character customizer (100% Blueprints)
 
 
 
 
 
-
-
-\## Pre-requisites
+\##Pre-requisites
 
 
 
@@ -16,7 +18,9 @@ Unreal Engine 5.7.4 or greater
 
 
 
-\## Features
+
+
+\##Features
 
 
 
@@ -68,7 +72,9 @@ OR create a new Data Asset of type DA\_CharacterCustomizer
 
 
 
-Roadmap
+
+
+\##Roadmap
 
 
 
@@ -92,7 +98,9 @@ Replace multiple RepNotify calls with a single consolidated update
 
 
 
-License
+
+
+\##License
 
 
 
